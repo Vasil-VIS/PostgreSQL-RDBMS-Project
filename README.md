@@ -1,6 +1,9 @@
 # PostgreSQL RDBMS Project
 Designing a relational schema, loading a dataset and optimizing for- and executing a query workload, using PosgreSQL.
 
+## Data
+The data is available [here](https://drive.google.com/drive/folders/1s6RCpD-7BdDrkc4r3joF1hQs6IjCjAbI).
+
 ## Description of data
  - Network.csv (NetworkId, NetworkName, NetworkSummary): 
     - NetworkId is a unique positive integer. NetworkName is alphabetic, max 70 characters. It can include spaces, i.e., [ a-zA-Z]+. NetworkSummary is alphabetic, max 200 characters. It can include spaces, i.e., [ a-zA-Z]+. 
